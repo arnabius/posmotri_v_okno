@@ -293,7 +293,7 @@ ol {
 .content__card-link {
   text-decoration: none;
   color: #fff;
-  margin: 3px;
+  margin: 1px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -335,6 +335,7 @@ ol {
   overflow: hidden;
   text-overflow: ellipsis; 
   padding-left: 2px;
+  align-self: flex-start;
 }
 
 .content__video-card-description {
